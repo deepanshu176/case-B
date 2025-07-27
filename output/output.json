@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "input_documents": [
+            "paper1.pdf"
+        ],
+        "persona": "PhD researcher in Computational Biology",
+        "job": "Prepare a literature review focusing on methodologies, datasets, and performance benchmarks",
+        "timestamp": "2025-07-27T23:04:12.741351"
+    },
+    "sections": [
+        {
+            "document": "paper1.pdf",
+            "page_number": 1,
+            "section_title": "Section from Page 1",
+            "importance_rank": 1
+        }
+    ],
+    "subsections": [
+        {
+            "document": "paper1.pdf",
+            "refined_text": "Advances in Graph Neural Networks for Drug Discovery",
+            "page_number": 1
+        }
+    ]
+}
